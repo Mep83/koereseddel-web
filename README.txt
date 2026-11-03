@@ -1,0 +1,1 @@
+Køreseddel til GitHub Pages. Upload filerne enkeltvis til roden af repository, ikke ZIP-filen. Aktiver Settings > Pages > Deploy from a branch > main / (root). Åbn derefter adressen i Safari og vælg Del > Føj til hjemmeskærm. Data lagres kun lokalt på hver telefon. Eksporter sikkerhedskopi regelmæssigt.
